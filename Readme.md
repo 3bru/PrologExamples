@@ -4,6 +4,6 @@
 
 *Yazdığım örnekleri burada online olarak yazıyorum*
 
-*Yazdığım soruları aşağı ilerledikçe ekleyeceğim.*
+*Yazdığım sorguları aşağı ilerledikçe ekleyeceğim.*
 
 'teaches(P,R).'
